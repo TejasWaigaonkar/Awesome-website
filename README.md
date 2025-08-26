@@ -1,1 +1,1 @@
-I made this website, inspired by Amazon website
+I made this website, inspired by Amazon website.
